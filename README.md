@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     Jeff's Page
@@ -21,21 +21,30 @@ getting into a game and seeing half the team insta lock dps with no delay or tho
 </ul>
 <h2> Links to sites that show how many playsyles there are</h2>
 <ul>
-<a href="https://www.pcgamesn.com/marvel-rivals/characters">
+<li>
+    <a href="https://www.pcgamesn.com/marvel-rivals/characters">
     This is a list of the multitude of available heros, yea there are a lot of dps but theres a good amount of tanks and supports
 </a>
-<a href="https://marvelrivals.gg/tier-list/">
+</li>
+<li>
+    <a href="https://marvelrivals.gg/tier-list/">
     Shows characters rankings, and even bad characters are good
 </a>
-<a href="https://rivalstracker.com/ranks">
+</li>
+    <li>
+        <a href="https://rivalstracker.com/ranks">
     Shows rank distribution amongst players
 </a>
-<a href="https://tracker.gg/marvel-rivals">
+    </li>
+<li>
+    <a href="https://tracker.gg/marvel-rivals">
     shows your own kd, game doesnt show deaths normally
 </a>
+</li>
 <a href="https://gametree.me/marvel-rivals-lfg/">
     in case you need a fill with communication skills
 </a>
+</li>
 </ul>
 </body>
 </html>
