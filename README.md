@@ -1,7 +1,7 @@
 
 <html lang="en">
 <head>
-    <title> Jeff's test site</title>
+    Jeff's test site
 </head>
 <body>
 <h1>Hello World</h1>
