@@ -20,6 +20,7 @@ getting into a game and seeing half the team insta lock dps with no delay or tho
     <li>The dps doing more tanking than damage</li>
 </ul>
 <h2> Links to sites that show how many playsyles there are</h2>
+<ul>
 <a href="https://www.pcgamesn.com/marvel-rivals/characters">
     This is a list of the multitude of available heros, yea there are a lot of dps but theres a good amount of tanks and supports
 </a>
@@ -35,5 +36,6 @@ getting into a game and seeing half the team insta lock dps with no delay or tho
 <a href="https://gametree.me/marvel-rivals-lfg/">
     in case you need a fill with communication skills
 </a>
+</ul>
 </body>
 </html>
