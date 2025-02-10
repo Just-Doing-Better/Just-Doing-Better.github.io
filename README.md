@@ -41,7 +41,8 @@ getting into a game and seeing half the team insta lock dps with no delay or tho
     shows your own kd, game doesnt show deaths normally
 </a>
 </li>
-<a href="https://gametree.me/marvel-rivals-lfg/">
+<li>
+    <a href="https://gametree.me/marvel-rivals-lfg/">
     in case you need a fill with communication skills
 </a>
 </li>
