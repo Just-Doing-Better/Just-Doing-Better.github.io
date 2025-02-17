@@ -11,7 +11,7 @@
 
 <h1>Quick thing about me</h1>
 <style>
-    h1{ color:yellow;}
+    { color:yellow;}
 </style>
 <h2>I got to update my linkdn, i will definitely make this more professinoal later but yea, the linkdn needs an update. I am a junior 
 at michigan state and am currently majoring in games and interactive media with a minor in business. This is currently for my class might link it in my official profile after changes.</h2>
