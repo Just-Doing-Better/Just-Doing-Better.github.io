@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
     Jeff's Page
+<style>
+    h1{ color:yellow;}
+</style>
+
 </head>
     
 <body>
