@@ -1,92 +1,53 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hero Profile</title>
-    <style>
-        body {
-            background-color: #111;
-            color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px;
-            background: black;
-        }
-        .header h1 {
-            color: #a78bfa;
-        }
-        .container {
-            padding: 20px;
-        }
-        .about-me {
-            background: #b5a642;
-            padding: 20px;
-            display: flex;
-            align-items: center;
-        }
-        .about-me img {
-            width: 150px;
-            height: 150px;
-            border-radius: 10px;
-            margin-left: 20px;
-        }
-        .interests, .thing {
-            background: #b5a642;
-            padding: 10px;
-            margin-top: 20px;
-        }
-        .footer {
-            background: #b5a642;
-            padding: 20px;
-            margin-top: 20px;
-            display: flex;
-            justify-content: space-between;
-        }
-    </style>
+    Jeff's Page
 </head>
+    
 <body>
-    <div class="header">
-        <h1>JB Hero</h1>
-        <div>
-            <a href="#">Link to LinkedIn</a> |
-            <a href="#">Link to Itch.io</a>
-        </div>
-    </div>
-    <div class="container">
-        <div class="about-me">
-            <p>I am currently an MSU junior and plan on working in the game industry.</p>
-            <img src="profile.jpg" alt="Profile Picture">
-        </div>
-        <div class="interests">
-            <h3>Top 3 Interests</h3>
-            <p>Amusement Parks<br>Games<br>Traveling</p>
-        </div>
-        <div class="thing">
-            <h3>Thing</h3>
-            <img src="cards.jpg" alt="Cards Collection" width="100%">
-        </div>
-    </div>
-    <div class="footer">
-        <div>
-            <h3>Contact Info</h3>
-            <p>Phone: 248-000-3040</p>
-            <p>Email: Jban08@gmail</p>
-            <p>Instagram: ???</p>
-        </div>
-        <div>
-            <h3>Links to profiles</h3>
-            <p><a href="#">Itch for some games</a></p>
-            <p><a href="#">LinkedIn</a></p>
-        </div>
-    </div>
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQH1bl7gAxTC8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1603467497285?e=2147483647&v=beta&t=SX3jBPGY2x73PtyVW9ERpzxe3PMAOvi-a7v72dsP5mQ" 
+     width = 200 height = 200>
+
+
+<h1>Quick thing about me</h1>
+<h2 style="color: blue;">I got to update my linkdn, i will definitely make this more professinoal later but yea, the linkdn needs an update. I am a junior 
+at michigan state and am currently majoring in games and interactive media with a minor in business. This is currently for my class might link it in my official profile after changes.</h2>
+<h1>Jeffs Rant on Marvel Rivals </h1>
+<h2>Ranked without a team of 4 and more might as well be a way to see that no one knows what team games are anymore.
+getting into a game and seeing half the team insta lock dps with no delay or thought might as well be the cause of why everyone complains</h2>
+<ul>
+   <li>The current meta</li>
+    <li>Culture around characters</li>
+    <li>The dps doing more tanking than damage</li>
+</ul>
+<h2> Links to sites that show how many playsyles there are</h2>
+<ul>
+<li>
+    <a href="https://www.pcgamesn.com/marvel-rivals/characters">
+    This is a list of the multitude of available heros, yea there are a lot of dps but theres a good amount of tanks and supports
+</a>
+</li>
+<li>
+    <a href="https://marvelrivals.gg/tier-list/">
+    Shows characters rankings, and even bad characters are good
+</a>
+</li>
+    <li>
+        <a href="https://rivalstracker.com/ranks">
+    Shows rank distribution amongst players
+</a>
+    </li>
+<li>
+    <a href="https://tracker.gg/marvel-rivals">
+    shows your own kd, game doesnt show deaths normally
+</a>
+</li>
+<li>
+    <a href="https://gametree.me/marvel-rivals-lfg/">
+    in case you need a fill with communication skills
+</a>
+</li>
+</ul>
 </body>
 </html>
 
